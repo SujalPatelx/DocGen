@@ -31,7 +31,7 @@ const doc = new Docxtemplater(zip, {
 
 // Replace placeholders with data, including the image path
 doc.render({
-    name: "Utsav",
+    name: "sujal",
     evenName: "Tech Expo",
     amount: "300",
     payMethod: "Cash",
